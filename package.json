@@ -1,0 +1,25 @@
+{
+  "name": "reachforwellness",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimehdi242/reachforwellness_backend.git"
+  },
+  "keywords": [
+    "reachforwellness"
+  ],
+  "author": "reachforwellness",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alimehdi242/reachforwellness_backend/issues"
+  },
+  "homepage": "https://github.com/alimehdi242/reachforwellness_backend#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
